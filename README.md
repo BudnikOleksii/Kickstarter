@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Kickstarter landing page
+
+Landing page developed with HTML, SCSS, BEM, JavaScript. Please, visit the link below:
+- [DEMO LINK](https://BudnikOleksii.github.io/Kickstarter/)
+
+According to [Figma design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33)
+- The design 1440px
+- Notebook 1280px
+- Tablet 768px
+- Mobile (> 320px)
